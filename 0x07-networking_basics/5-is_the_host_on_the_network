@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Pings an Ip address passed as an argument.
+
+if [[$1
